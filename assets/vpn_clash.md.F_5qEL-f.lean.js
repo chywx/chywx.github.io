@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,R as r}from"./chunks/framework.oF8MFcXU.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vpn/clash.md","filePath":"vpn/clash.md"}'),c={name:"vpn/clash.md"},n=r("",10),h=[n];function o(s,p,i,l,d,_){return e(),t("div",null,h)}const m=a(c,[["render",o]]);export{f as __pageData,m as default};
